@@ -1,9 +1,9 @@
 # FNX Downloads
-This repository contains our latest released installers and plugins for third party applications. We recommend always using our latest release versions for all software and plugins, but you can also find previous versions in the `releases` link above.
+This repository contains our latest released installers and plugins. We recommend always using the latest released versions, but you can also find previous versions in the `releases` link above if required.
 
-Please visit our **Help Center** for installation instructions.
+Please visit the **Installing Application & Plugins** section on our *Getting Started with FNX* help center page for installation instructions.
 
-http://support.fnx.tech/en
+http://support.fnx.tech/en/collections/2101965-getting-started-with-fnx
 
 
 ## v1.0.0
