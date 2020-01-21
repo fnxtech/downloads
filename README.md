@@ -6,7 +6,7 @@ Please visit the **Installing Application & Plugins** section on this *Help Cent
 http://support.fnx.tech/en/collections/2101965-getting-started-with-fnx
 
 
-## v1.0.0
+## v1.0.1
 
 ### Windows
 
