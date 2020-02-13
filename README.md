@@ -6,7 +6,7 @@ Please visit the **Installing Application & Plugins** section on this *Help Cent
 http://support.fnx.tech/en/collections/2101965-getting-started-with-fnx
 
 
-## v1.0.2
+## v1.1.0
 
 ### Windows
 
@@ -15,7 +15,7 @@ http://support.fnx.tech/en/collections/2101965-getting-started-with-fnx
 |3dsMax 2020 VRay|Plugin|1.0.1|FNX-v1.0.1-3dsMax2020-windows.mzp|
 |BW VStitcher|Plugin|1.0.5|FNX-v1.0.5-VStitcherAugust.zip|
 |CLO API v2.5|Plugin|1.1.0|FNX-v1.1.0-CLOAPI-v2_5-windows.zip|
-|FNX Connect|Installer|1.39.0|FNX-v1.39.0-Connect-windows.exe|
+|FNX Connect|Installer|1.43.1|FNX-v1.43.1-Connect-windows.exe|
 
 ### Mac
 No releases for Mac (OSX) at this time.
