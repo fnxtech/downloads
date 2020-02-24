@@ -10,12 +10,12 @@ http://support.fnx.tech/en/collections/2101965-getting-started-with-fnx
 
 ### Windows
 
-|Description|Type|Version|File(s)|
-|-|-|-|-|
-|3dsMax 2020 VRay|Plugin|1.0.1|FNX-v1.0.1-3dsMax2020-windows.mzp|
-|BW VStitcher|Plugin|1.0.5|FNX-v1.0.5-VStitcherAugust.zip|
-|CLO API v2.5|Plugin|1.1.0|FNX-v1.1.0-CLOAPI-v2_5-windows.zip|
-|FNX Connect|Installer|1.43.1|FNX-v1.43.1-Connect-windows.exe|
+|Application|Type|Version|Supported|File(s)|
+|-|-|-|-|-|
+|3dsMax 2020 VRay|Plugin|1.0.1|Next|FNX-v1.0.1-3dsMax2020-windows.mzp|
+|VStitcher|Plugin|1.4.0|Jan 2020, Aug 2019|FNX-v1.4.0-VStitcherAugust.zip|
+|CLO|Plugin|1.2.2|5.1.436|FNX-v1.2.2-CLOAPI-v2_5-windows.zip|
+|FNX Connect|Installer|1.60.0|Windows 10|FNX-v1.60.0-Connect-windows.exe|
 
 ### Mac
 No releases for Mac (OSX) at this time.
