@@ -3,7 +3,7 @@ This repository contains our latest released installers and plugins. We recommen
 
 Please visit the **Installing Application & Plugins** section on this *Help Center* page for installation instructions.
 
-http://support.fnx.tech/en/collections/2101965-getting-started-with-fnx
+http://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 
 
 ## v1.1.0
