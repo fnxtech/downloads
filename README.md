@@ -6,15 +6,15 @@ Please visit the **Installing Application & Plugins** section on this *Help Cent
 https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 
 
-## v1.2.0
+## v1.3.0
 
 ### Windows
 
 |Application|Type|Version|Supported|File(s)|
 |-|-|-|-|-|
-|VStitcher|Plugin|1.4.0|Jan 2020, Aug 2019|FNX-v1.4.0-VStitcherAugust.zip|
-|CLO|Plugin|1.2.2|5.1.436|FNX-v1.2.2-CLOAPI-v2_5-windows.zip|
-|FNX Connect|Installer|1.64.2|Windows 10|FNX-v1.64.2-Connect-windows.exe|
+|VStitcher|Plugin|1.5.0|Jan 2020, Aug 2019|FNX-v1.5.0-VStitcher.zip|
+|CLO|Plugin|1.2.3|5.1.436|FNX-v1.2.3-CLOAPI-v2_5-windows.zip|
+|FNX Connect|Installer|1.71.1|Windows 10|FNX-v1.71.1-Connect-windows.exe|
 
 ### Mac
 No releases for Mac (OSX) at this time.
