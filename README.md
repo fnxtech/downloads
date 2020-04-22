@@ -6,7 +6,7 @@ Please visit the **Getting Started with FNX** section on this *Help Center* page
 https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 
 
-## v1.3.0
+## v1.3.1
 
 ### Windows
 
