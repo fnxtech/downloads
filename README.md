@@ -12,7 +12,7 @@ https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 
 |Application|Type|Version|Supported|File(s)|
 |-|-|-|-|-|
-|VStitcher|Plugin|1.7.0|Jan 2020, Aug 2019|FNX-v1.7.0-VStitcher.zip|
+|VStitcher|Plugin|1.7.0|May 2020, Jan 2020, Aug 2019|FNX-v1.7.0-VStitcher.zip|
 |CLO|Plugin|1.3.1|5.1.436|FNX-v1.3.1-CLOAPI-v2_5-windows.zip|
 |CLO|Plugin|1.3.1|5.2.142|FNX-v1.3.1-CLOAPI-v2_7-windows.zip|
 |CLO|Plugin|1.3.1|5.2.284|FNX-v1.3.1-CLOAPI-v2_8-windows.zip|
