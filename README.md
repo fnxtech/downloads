@@ -1,12 +1,14 @@
 # FNX Downloads
-This repository contains our latest released installers and plugins. We recommend always using the latest released versions, but you can also find previous versions in the `releases` link above if required.
+This repository contains our latest releases of Connect and application plugins, we recommend always using the latest version available here to ensure compatibility with our services.
 
 Please visit the **Getting Started with FNX** section on this *Help Center* page for installation instructions.
 
 https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 
 
-## v1.4.0
+## v2.0.0
+
+*Note that the `CLO Plugin (glTF)` is currently a `beta` release and we're asking for user testing & feedback.*
 
 ### Windows
 
@@ -16,6 +18,7 @@ https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 |CLO|Plugin|1.4.4|5.1.436|FNX-v1.4.4-CLOAPI-v2_5-windows.zip|
 |CLO|Plugin|1.4.4|5.2.142|FNX-v1.4.4-CLOAPI-v2_7-windows.zip|
 |CLO|Plugin|1.4.4|5.2.284|FNX-v1.4.4-CLOAPI-v2_8-windows.zip|
+|CLO|Plugin (glTF)|1.4.4|5.2.284|FNX-v1.4.4-CLOAPI-v2_8-windows-GLTF.zip|
 |FNX Connect|Installer|1.79.4|Windows 10|FNX-v1.79.4-Connect-windows.dmg|
 
 ### Mac
@@ -25,4 +28,6 @@ https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 |CLO|Plugin|1.4.4|5.1.436|FNX-v1.4.4-CLOAPI-v2_5-mac.zip|
 |CLO|Plugin|1.4.4|5.2.142|FNX-v1.4.4-CLOAPI-v2_7-mac.zip|
 |CLO|Plugin|1.4.4|5.2.284|FNX-v1.4.4-CLOAPI-v2_8-mac.zip|
+|CLO|Plugin (glTF)|1.4.4|5.2.284|FNX-v1.4.4-CLOAPI-v2_8-mac-GLTF.zip|
 |FNX Connect|Installer|1.79.4|macOS >10.14|FNX-v1.79.4-Connect-mac.dmg|
+|SetEnv|.plist|x|macOS >10.14|setenv.FNX_SUBMITTER_APP.plist|
