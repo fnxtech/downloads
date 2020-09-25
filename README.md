@@ -21,7 +21,7 @@ https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 |CLO|Plugin|1.4.6|5.2.382|FNX-v1.4.6-CLOAPI-v2_9-windows.zip|
 |CLO|Plugin (glTF)|1.4.6|5.2.334|FNX-v1.4.6-CLOAPI-v2_8-windows-GLTF.zip|
 |CLO|Plugin (glTF)|1.4.6|5.2.382|FNX-v1.4.6-CLOAPI-v2_9-windows-GLTF.zip|
-|FNX Connect|Installer|1.79.4|Windows 10|FNX-v2.7.1-Connect-windows.exe|
+|FNX Connect|Installer|2.7.1|Windows 10|FNX-v2.7.1-Connect-windows.exe|
 
 ### Mac
 |Application|Type|Version|Supported|File(s)|
@@ -31,4 +31,4 @@ https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 |CLO|Plugin|1.4.6|5.2.142|FNX-v1.4.6-CLOAPI-v2_7-mac.zip|
 |CLO|Plugin|1.4.6|5.2.334|FNX-v1.4.6-CLOAPI-v2_8-mac.zip|
 |CLO|Plugin (glTF)|1.4.6|5.2.344|FNX-v1.4.6-CLOAPI-v2_8-mac-GLTF.zip|
-|FNX Connect|Installer|1.79.4|macOS >10.14|FNX-v2.7.1-Connect-mac.pkg|
+|FNX Connect|Installer|2.7.1|macOS >10.14|FNX-v2.7.1-Connect-mac.pkg|
