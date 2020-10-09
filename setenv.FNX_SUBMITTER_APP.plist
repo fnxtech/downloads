@@ -2,16 +2,18 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>Label</key>
-    <string>setenv.FNX_SUBMITTER_APP</string>
-    <key>ProgramArguments</key>
-    <array>
-        <string>/bin/launchctl</string>
-        <string>setenv</string>
-        <string>FNX_SUBMITTER_APP</string>
-        <string>/Applications/FNX Connect.app/Contents/MacOS/FNX Connect</string>
-    </array>
-    <key>RunAtLoad</key>
-    <true/>
+  <key>Label</key>
+  <string>my.startup</string>
+  <key>ProgramArguments</key>
+  <array>
+    <string>sh</string>
+    <string>-c</string>
+    <string>
+    launchctl setenv FNX_SUBMITTER_APP "/Applications/FNX Connect.app/Contents/MacOS/FNX Connect"
+    </string>
+
+  </array>
+  <key>RunAtLoad</key>
+  <true/>
 </dict>
 </plist>
