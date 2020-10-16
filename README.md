@@ -1,5 +1,5 @@
 # FNX Downloads
-This repository contains our latest releases of Connect and application plugins, we recommend always using the latest version available here to ensure compatibility with our services.
+This repository contains our latest releases of our application plugins. We recommend always using the latest version available here to ensure compatibility with our services.
 
 Please visit the **Getting Started with FNX** section on this *Help Center* page for installation instructions.
 
@@ -22,7 +22,6 @@ https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 |CLO|Plugin|1.4.12|5.2.382|FNX-v1.4.12-CLOAPI-v2_9-windows.zip|
 |CLO|Plugin (glTF)|1.4.12|5.2.334|FNX-v1.4.12-CLOAPI-v2_8-windows-GLTF.zip|
 |CLO|Plugin (glTF)|1.4.12|5.2.382|FNX-v1.4.12-CLOAPI-v2_9-windows-GLTF.zip|
-|FNX Connect|Installer|2.10.1|Windows 10|FNX-v2.10.1-Connect-windows.exe|
 
 ### Mac
 |Application|Type|Version|Supported|File(s)|
@@ -34,4 +33,3 @@ https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 |CLO|Plugin|1.4.12|5.2.334|FNX-v1.4.12-CLOAPI-v2_8-mac.zip|
 |CLO|Plugin (glTF)|1.4.12|5.2.344|FNX-v1.4.12-CLOAPI-v2_8-mac-GLTF.zip|
 |CLO|Plugin (glTF)|1.4.12|5.2.382|FNX-v1.4.12-CLOAPI-v2_9-mac-GLTF.zip|
-|FNX Connect|Installer|2.10.1|macOS >10.14|FNX-v2.10.1-Connect-mac.pkg|
