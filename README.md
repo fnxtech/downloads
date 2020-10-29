@@ -6,16 +6,14 @@ Please visit the **Getting Started with FNX** section on this *Help Center* page
 https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 
 
-## v3.0.0
-
-*Note that the `CLO Plugin (glTF)` is currently a `beta` release and we're asking for user testing & feedback.*
+## v3.1.0
 
 ### Windows
 
 |Application|Type|Version|Supported|File(s)|
 |-|-|-|-|-|
-|VStitcher|Plugin|1.8.4|Sept 2020, May 2020, Jan 2020, Aug 2019|FNX-v1.8.4-Browzwear.zip|
-|Lotta|Plugin|1.8.4|Sept 2020|FNX-v1.8.4-Browzwear.zip|
+|VStitcher|Plugin|1.9.3|Sept 2020, May 2020, Jan 2020, Aug 2019|FNX-v1.9.3-Browzwear.zip|
+|Lotta|Plugin|1.9.3|Sept 2020|FNX-v1.9.3-Browzwear.zip|
 |CLO|Plugin|1.4.12|5.1.436|FNX-v1.4.12-CLOAPI-v2_5-windows.zip|
 |CLO|Plugin|1.4.12|5.2.142|FNX-v1.4.12-CLOAPI-v2_7-windows.zip|
 |CLO|Plugin|1.4.12|5.2.334|FNX-v1.4.12-CLOAPI-v2_8-windows.zip|
@@ -26,8 +24,8 @@ https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 ### Mac
 |Application|Type|Version|Supported|File(s)|
 |-|-|-|-|-|
-|VStitcher|Plugin|1.8.4|Sept 2020, May 2020, Jan 2020, Aug 2019|FNX-v1.8.4-Browzwear.zip|
-|Lotta|Plugin|1.8.4|Sept 2020|FNX-v1.8.4-Browzwear.zip|
+|VStitcher|Plugin|1.9.3|Sept 2020, May 2020, Jan 2020, Aug 2019|FNX-v1.9.3-Browzwear.zip|
+|Lotta|Plugin|1.9.3|Sept 2020|FNX-v1.9.3-Browzwear.zip|
 |CLO|Plugin|1.4.12|5.1.436|FNX-v1.4.12-CLOAPI-v2_5-mac.zip|
 |CLO|Plugin|1.4.12|5.2.142|FNX-v1.4.12-CLOAPI-v2_7-mac.zip|
 |CLO|Plugin|1.4.12|5.2.334|FNX-v1.4.12-CLOAPI-v2_8-mac.zip|
