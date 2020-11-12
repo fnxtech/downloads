@@ -6,28 +6,28 @@ Please visit the **Getting Started with FNX** section on this *Help Center* page
 https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 
 
-## v3.1.0
+## v3.2.0
 
 ### Windows
 
 |Application|Type|Version|Supported|File(s)|
 |-|-|-|-|-|
-|VStitcher|Plugin|1.9.3|Sept 2020, May 2020, Jan 2020, Aug 2019|FNX-v1.9.3-Browzwear.zip|
-|Lotta|Plugin|1.9.3|Sept 2020|FNX-v1.9.3-Browzwear.zip|
-|CLO|Plugin|1.4.12|5.1.436|FNX-v1.4.12-CLOAPI-v2_5-windows.zip|
-|CLO|Plugin|1.4.12|5.2.142|FNX-v1.4.12-CLOAPI-v2_7-windows.zip|
-|CLO|Plugin|1.4.12|5.2.334|FNX-v1.4.12-CLOAPI-v2_8-windows.zip|
-|CLO|Plugin|1.4.12|5.2.382|FNX-v1.4.12-CLOAPI-v2_9-windows.zip|
-|CLO|Plugin (glTF)|1.4.12|5.2.334|FNX-v1.4.12-CLOAPI-v2_8-windows-GLTF.zip|
-|CLO|Plugin (glTF)|1.4.12|5.2.382|FNX-v1.4.12-CLOAPI-v2_9-windows-GLTF.zip|
+|VStitcher|Plugin|2.0.2|Sept 2020, May 2020, Jan 2020, Aug 2019|FNX-v2.0.2-Browzwear.zip|
+|Lotta|Plugin|2.0.2|Sept 2020|FNX-v2.0.2-Browzwear.zip|
+|CLO|Plugin (deprecated)|2.0.0|5.1.436|FNX-v2.0.0-CLOAPI-v2_5-windows.zip|
+|CLO|Plugin (deprecated)|2.0.0|5.2.142|FNX-v2.0.0-CLOAPI-v2_7-windows.zip|
+|CLO|Plugin (deprecated)|2.0.0|5.2.334|FNX-v2.0.0-CLOAPI-v2_8-windows.zip|
+|CLO|Plugin (deprecated)|2.0.0|5.2.382|FNX-v2.0.0-CLOAPI-v2_9-windows.zip|
+|CLO|Plugin|2.0.0|5.2.334|FNX-v2.0.0-CLOAPI-v2_8-windows-GLTF.zip|
+|CLO|Plugin|2.0.0|5.2.382|FNX-v2.0.0-CLOAPI-v2_9-windows-GLTF.zip|
 
 ### Mac
 |Application|Type|Version|Supported|File(s)|
 |-|-|-|-|-|
-|VStitcher|Plugin|1.9.3|Sept 2020, May 2020, Jan 2020, Aug 2019|FNX-v1.9.3-Browzwear.zip|
-|Lotta|Plugin|1.9.3|Sept 2020|FNX-v1.9.3-Browzwear.zip|
-|CLO|Plugin|1.4.12|5.1.436|FNX-v1.4.12-CLOAPI-v2_5-mac.zip|
-|CLO|Plugin|1.4.12|5.2.142|FNX-v1.4.12-CLOAPI-v2_7-mac.zip|
-|CLO|Plugin|1.4.12|5.2.334|FNX-v1.4.12-CLOAPI-v2_8-mac.zip|
-|CLO|Plugin (glTF)|1.4.12|5.2.344|FNX-v1.4.12-CLOAPI-v2_8-mac-GLTF.zip|
-|CLO|Plugin (glTF)|1.4.12|5.2.382|FNX-v1.4.12-CLOAPI-v2_9-mac-GLTF.zip|
+|VStitcher|Plugin|2.0.2|Sept 2020, May 2020, Jan 2020, Aug 2019|FNX-v2.0.2-Browzwear.zip|
+|Lotta|Plugin|2.0.2|Sept 2020|FNX-v2.0.2-Browzwear.zip|
+|CLO|Plugin (deprecated)|2.0.0|5.1.436|FNX-v2.0.0-CLOAPI-v2_5-mac.zip|
+|CLO|Plugin (deprecated)|2.0.0|5.2.142|FNX-v2.0.0-CLOAPI-v2_7-mac.zip|
+|CLO|Plugin (deprecated)|2.0.0|5.2.334|FNX-v2.0.0-CLOAPI-v2_8-mac.zip|
+|CLO|Plugin|2.0.0|5.2.344|FNX-v2.0.0-CLOAPI-v2_8-mac-GLTF.zip|
+|CLO|Plugin|2.0.0|5.2.382|FNX-v2.0.0-CLOAPI-v2_9-mac-GLTF.zip|
