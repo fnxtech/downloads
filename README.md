@@ -12,6 +12,7 @@ https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 
 |Application|Type|Version|Supported|File(s)|
 |-|-|-|-|-|
+|Blender|Addon|0.3.1|2.83|FNX-v0.3.1-Blender.zip|
 |VStitcher|Plugin|3.1.0|Sept 2020, May 2020, Jan 2020, Aug 2019|FNX-v3.1.0-Browzwear.zip|
 |Lotta|Plugin|3.1.0|Sept 2020|FNX-v3.1.0-Browzwear.zip|
 |CLO|Plugin (deprecated)|2.1.0|5.1.436|FNX-v2.1.0-CLOAPI-v2_5-windows.zip|
@@ -25,6 +26,7 @@ https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 ### Mac
 |Application|Type|Version|Supported|File(s)|
 |-|-|-|-|-|
+|Blender|Addon|0.3.1|2.83|FNX-v0.3.1-Blender.zip|
 |VStitcher|Plugin|3.1.0|Sept 2020, May 2020, Jan 2020, Aug 2019|FNX-v3.1.0-Browzwear.zip|
 |Lotta|Plugin|3.1.0|Sept 2020|FNX-v3.1.0-Browzwear.zip|
 |CLO|Plugin (deprecated)|2.1.0|5.1.436|FNX-v2.1.0-CLOAPI-v2_5-mac.zip|
