@@ -15,8 +15,6 @@ https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 |Blender|Addon|0.4.1|2.83|FNX-v0.4.1-Blender.zip|
 |VStitcher|Plugin|3.2.3|Sept 2020, May 2020, Jan 2020, Aug 2019|FNX-v3.2.3-Browzwear.zip|
 |Lotta|Plugin|3.2.3|Sept 2020|FNX-v3.2.3-Browzwear.zip|
-|CLO|Plugin (deprecated)|2.1.0|5.1.436|FNX-v3.0.0-CLOAPI-v2_5-windows.zip|
-|CLO|Plugin (deprecated)|3.0.0|5.2.142|FNX-v3.0.0-CLOAPI-v2_7-windows.zip|
 |CLO|Plugin|3.0.0|5.2.334|FNX-v3.0.0-CLOAPI-v2_8-windows-GLTF.zip|
 |CLO|Plugin|3.0.0|5.2.382|FNX-v3.0.0-CLOAPI-v2_9-windows-GLTF.zip|
 |CLO|Plugin|3.0.0|6.0.328|FNX-v3.0.0-CLOAPI-v3_0-windows-GLTF.zip|
@@ -27,8 +25,6 @@ https://support.fnx.technology/en/collections/2101965-getting-started-with-fnx
 |Blender|Addon|0.4.1|2.83|FNX-v0.4.1-Blender.zip|
 |VStitcher|Plugin|3.2.3|Sept 2020, May 2020, Jan 2020, Aug 2019|FNX-v3.2.3-Browzwear.zip|
 |Lotta|Plugin|3.2.3|Sept 2020|FNX-v3.2.3-Browzwear.zip|
-|CLO|Plugin (deprecated)|3.0.0|5.1.436|FNX-v3.0.0-CLOAPI-v2_5-mac.zip|
-|CLO|Plugin (deprecated)|3.0.0|5.2.142|FNX-v3.0.0-CLOAPI-v2_7-mac.zip|
 |CLO|Plugin|3.0.0|5.2.344|FNX-v3.0.0-CLOAPI-v2_8-mac-GLTF.zip|
 |CLO|Plugin|3.0.0|5.2.382|FNX-v3.0.0-CLOAPI-v2_9-mac-GLTF.zip|
 |CLO|Plugin|3.0.0|6.0.328|FNX-v3.0.0-CLOAPI-v3_0-mac-GLTF.zip|
